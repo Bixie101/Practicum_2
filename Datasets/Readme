@@ -1,0 +1,3 @@
+My Dataset was created from lab environment so HOST information is all the same.
+
+The dataset doesn't have date and time information, so the correlation between attempts over time can't be assessed for password spraying attempts.
